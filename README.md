@@ -196,3 +196,37 @@ If you use this guide in your research or implementation, please cite:
 
 Naboulsi, A. A. R. (2025). AI Governance Guide for Lebanese Financial Institutions.
 Capital Outsourcing SAL. https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions 
+
+---
+
+## 📈 **Roadmap**
+
+### **Version 1.1 (Q4 2025)**
+- [ ] Arabic translation
+- [ ] Enhanced dashboard features
+- [ ] Additional implementation examples
+- [ ] Mobile-responsive design
+
+### **Version 2.0 (Q3 2025)**
+- [ ] AI-powered compliance assistant
+- [ ] Automated risk assessment tools
+- [ ] Integration with banking systems
+- [ ] Advanced analytics capabilities
+
+---
+
+## 🔗 **Related Resources**
+
+- [BDL Official Website](https://www.bdl.gov.lb)
+- [Lebanese Banking Association](https://www.abl.org.lb)
+- [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html)
+- [EU AI Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+
+---
+
+**⭐ If this guide helps your organization, please star this repository and share with colleagues!**
+
+---
+
+*Last updated: September 2025 | Version 1.0*
