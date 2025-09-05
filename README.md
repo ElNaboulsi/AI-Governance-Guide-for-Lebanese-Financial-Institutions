@@ -193,3 +193,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **Citation**
 If you use this guide in your research or implementation, please cite:
+
+Naboulsi, A. A. R. (2025). AI Governance Guide for Lebanese Financial Institutions.
+Capital Outsourcing SAL. https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions 
