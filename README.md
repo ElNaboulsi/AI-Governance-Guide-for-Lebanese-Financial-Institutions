@@ -59,7 +59,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 - [Compliance Monitoring Tools](docs/tools/compliance-monitoring/)
 
 ### **📊 [Interactive Dashboard](dashboard/)**
-- [Live Dashboard](main/index.html)
+- [Live Dashboard](https://elnaboulsi.github.io/AI-Governance-Guide-for-Lebanese-Financial-Institutions)
 - [Setup Instructions](dashboard/README.md)
 - [Customization Guide](dashboard/customization.md)
 
