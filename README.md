@@ -22,7 +22,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 ## 🎯 **Quick Start**
 
 ### **For Financial Institutions:**
-1. Download the [Complete Guide](docs/guide/AI_Governance_Guide_Final.pdf)
+1. Download the [Complete Guide]((https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.pdf))
 2. Review the [Implementation Roadmap](docs/guide/implementation-roadmap.md)
 3. Use the [Assessment Tools](docs/tools/) to evaluate your current state
 4. Follow the [4-Phase Implementation Plan](docs/guide/implementation-phases.md)
