@@ -42,15 +42,14 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 ## 📚 **Documentation Structure**
 
 ### **📖 [Main Guide](docs/guide/)**
-- [AI Governance Guide v1.0 (PDF)](docs/guide/AI_Governance_Guide_Final.pdf)
-- [Executive Summary](docs/guide/executive-summary.md)
-- [Implementation Roadmap](docs/guide/implementation-roadmap.md)
-- [Risk Management Framework](docs/guide/risk-management.md)
+- [AI Governance Guide v1.0 (PDF)](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.pdf)
+- [Executive Summary]
+- [Implementation Roadmap]
+- [Risk Management Framework]
 
-### **🎤 [Presentations](docs/presentations/)**
-- [Expert Lecture (2-hour)](docs/presentations/expert-lecture/)
-- [LinkedIn Carousel](docs/presentations/linkedin-carousel/)
-- [Executive Summary Slides](docs/presentations/executive-summary/)
+### **🎤 [Presentations](docs/presentations/)** (Coming Soon)
+- [Expert Lecture (2-hour)]
+- [Executive Summary Slides]
 
 ### **🔧 [Tools & Templates](docs/tools/)**
 - [AI System Assessment Checklist](docs/tools/ai-system-assessment.pdf)
