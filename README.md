@@ -23,29 +23,25 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 
 ### **For Financial Institutions:**
 1. Download the [Complete Guide](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.pdf)
-2. Review the [Implementation Roadmap](docs/guide/implementation-roadmap.md)
-3. Use the [Assessment Tools](docs/tools/) to evaluate your current state
-4. Follow the [4-Phase Implementation Plan](docs/guide/implementation-phases.md)
+2. Review the Implementation Roadmap
+3. Use the Assessment Tools to evaluate your current state
+4. Follow the 4-Phase Implementation Plan
 
 ### **For Regulators:**
 1. Review the [Regulatory Compliance Framework](docs/regulations/)
-2. Access [BDL Circular Analysis](docs/regulations/bdl-circulars-analysis.md)
-3. Download [Examination Guidelines](docs/tools/regulatory-examination-checklist.pdf)
+2. Access BDL Circular Analysis in The Guide
 
 ### **For Developers:**
-1. Explore the [Interactive Dashboard](dashboard/)
-2. Use the [API Documentation](docs/tools/api-documentation.md)
-3. Check [Integration Examples](examples/)
-
+1. Explore the [Interactive Dashboard](https://elnaboulsi.github.io/AI-Governance-Guide-for-Lebanese-Financial-Institutions)
 ---
 
 ## 📚 **Documentation Structure**
 
 ### **📖 [Main Guide](docs/guide/)**
 - [AI Governance Guide v1.0 (PDF)](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.pdf)
-- [Executive Summary]
-- [Implementation Roadmap]
-- [Risk Management Framework]
+- Executive Summary
+- Implementation Roadmap
+- Risk Management Framework
 
 ### **🎤 [Presentations](docs/presentations/)** (Coming Soon)
 - [Expert Lecture (2-hour)]
