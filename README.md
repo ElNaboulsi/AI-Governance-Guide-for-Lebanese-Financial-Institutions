@@ -28,7 +28,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 4. Follow the 4-Phase Implementation Plan
 
 ### **For Regulators:**
-1. Review the [Regulatory Compliance Framework](docs/)
+1. Review the [Regulatory Compliance Laws and Regulations](docs/)
 2. Access BDL Circular Analysis in The Guide
 
 ### **For Developers:**
