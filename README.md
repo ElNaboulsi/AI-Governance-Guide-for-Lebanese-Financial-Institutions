@@ -44,14 +44,14 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 - Risk Management Framework
 
 ### **🎤 [Presentations](docs/presentations/)** (Coming Soon)
-- [Expert Lecture (2-hour)]
-- [Executive Summary Slides]
+- Expert Lecture (2-hour)
+- Executive Summary Slides
 
 ### **🔧 [Tools & Templates](docs/tools/)**
-- [AI System Assessment Checklist](docs/tools/ai-system-assessment.pdf)
-- [Risk Assessment Matrix](docs/tools/risk-assessment-matrix.xlsx)
-- [Policy Templates](docs/tools/policy-templates/)
-- [Compliance Monitoring Tools](docs/tools/compliance-monitoring/)
+- AI System Assessment Checklist
+- Risk Assessment Matrix
+- Policy Templates
+- Compliance Monitoring Tools
 
 ### **📊 [Interactive Dashboard](dashboard/)**
 - [Live Dashboard](https://elnaboulsi.github.io/AI-Governance-Guide-for-Lebanese-Financial-Institutions)
@@ -59,9 +59,9 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 - [Customization Guide](dashboard/customization.md)
 
 ### **📋 [Regulatory References](docs/regulations/)**
-- [BDL Circulars](docs/regulations/bdl-circulars/)
-- [Lebanese Laws](docs/regulations/lebanese-laws/)
-- [International Standards](docs/regulations/international-standards/)
+- [BDL Circulars](docs/)
+- [Lebanese Laws](docs/)
+- International Standards
 
 ---
 
@@ -80,7 +80,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 - Interactive monitoring dashboard
 
 ### **✅ Lebanese Context**
-- Tailored for Lebanese regulatory environment
+- Tailored for the Lebanese regulatory environment
 - BDL circular compliance (69, 144, 141, 128, 150)
 - Data sovereignty requirements
 - Local market considerations
