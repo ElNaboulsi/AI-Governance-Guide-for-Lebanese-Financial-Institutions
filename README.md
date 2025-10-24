@@ -81,7 +81,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 
 ### **✅ Lebanese Context**
 - Tailored for the Lebanese regulatory environment
-- BDL circular compliance (69, 144, 141, 128, 150)
+- BDL circular compliance (69, 144, 141, 128, 146)
 - Data sovereignty requirements
 - Local market considerations
 
