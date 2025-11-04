@@ -22,7 +22,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 ## 🎯 **Quick Start**
 
 ### **For Financial Institutions:**
-1. Download the [Complete Guide](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.1.pdf)
+1. Download the [Complete Guide](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.2.pdf)
 2. Review the Implementation Roadmap
 3. Use the Assessment Tools to evaluate your current state
 4. Follow the 4-Phase Implementation Plan
@@ -71,7 +71,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 - 16 detailed sections covering all aspects of AI governance
 - 80 authoritative references and citations
 - Complete BDL regulatory compliance framework
-- International standards alignment (ISO 42001, EU AI Act, NIST)
+- International standards alignment (ISO 42001, ISO 27001 EU AI Act, NIST)
 
 ### **✅ Practical Implementation**
 - 4-phase implementation roadmap with timelines
@@ -81,7 +81,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 
 ### **✅ Lebanese Context**
 - Tailored for the Lebanese regulatory environment
-- BDL circular compliance (69, 144, 141, 128, 146)
+- BDL circular compliance (69, 144, 129, 141, 128, 146)
 - Data sovereignty requirements
 - Local market considerations
 
@@ -89,7 +89,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 - ISO/IEC 42001:2023 compliance
 - EU AI Act alignment
 - NIST AI Risk Management Framework
-- Basel Committee guidelines
+- ISO/IEC 27001:2022 compliance
 
 ---
 
@@ -178,7 +178,7 @@ We welcome contributions from the Lebanese financial sector community!
 ### **Support Channels**
 - 🐛 **Issues:** [GitHub Issues](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/issues)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/discussions)
-- 📧 **Direct Contact:** compliance@c-o.com
+- 📧 **Direct Contact:** [linkedin.com/in/abed-al-rahman-naboulsi](https://www.linkedin.com/in/abed-al-rahman-naboulsi)
 
 ---
 
@@ -197,12 +197,17 @@ Capital Outsourcing SAL. https://github.com/ElNaboulsi/AI-Governance-Guide-for-L
 ## 📈 **Roadmap**
 
 ### **Version 1.1 (Q4 2025)**
-- [ ] Arabic translation
+- [ ] Enhanced dashboard features
+- [ ] Additional implementation examples
+- [ ] Mobile-responsive design
+66                                                                                                          
+ ### Version 1.2 (Q4 2025)**
+
 - [ ] Enhanced dashboard features
 - [ ] Additional implementation examples
 - [ ] Mobile-responsive design
 
-### **Version 2.0 (Q3 2025)**
+### **Version 2.0 (Q3 2025)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 - [ ] AI-powered compliance assistant
 - [ ] Automated risk assessment tools
 - [ ] Integration with banking systems
@@ -224,4 +229,4 @@ Capital Outsourcing SAL. https://github.com/ElNaboulsi/AI-Governance-Guide-for-L
 
 ---
 
-*Last updated: September 2025 | Version 1.0*
+*Last updated: October 2025 | Version 1.2*
