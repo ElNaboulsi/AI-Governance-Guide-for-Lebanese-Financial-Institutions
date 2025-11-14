@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-2.0-blue.svg)](https://github.com/yourusername/ai-governance-guide-lebanon)
-[![Lebanese Financial Sector](https://img.shields.io/badge/Sector-Lebanese%20Banking-green.svg)](https://bdl.gov.lb)
+[![Lebanese Financial Sector](https://img.shields.io/badge/Sector-Lebanese%20Financial%20Institutions-green.svg)](https://bdl.gov.lb)
 
 ## 🏛️ **First Comprehensive AI Governance Framework for Lebanese Financial Institutions**
 
