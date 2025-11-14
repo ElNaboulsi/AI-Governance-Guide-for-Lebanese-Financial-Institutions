@@ -1,7 +1,7 @@
 # AI Governance Guide for Lebanese Financial Institutions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.2-blue.svg)](https://github.com/yourusername/ai-governance-guide-lebanon)
+[![Version](https://img.shields.io/badge/Version-2.0-blue.svg)](https://github.com/yourusername/ai-governance-guide-lebanon)
 [![Lebanese Financial Sector](https://img.shields.io/badge/Sector-Lebanese%20Banking-green.svg)](https://bdl.gov.lb)
 
 ## 🏛️ **First Comprehensive AI Governance Framework for Lebanese Financial Institutions**
@@ -22,7 +22,7 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 ## 🎯 **Quick Start**
 
 ### **For Financial Institutions:**
-1. Download the [Complete Guide](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.2.pdf)
+1. Download the [Complete Guide](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v2.0.pdf)
 2. Review the Implementation Roadmap
 3. Use the Assessment Tools to evaluate your current state
 4. Follow the 4-Phase Implementation Plan
@@ -37,6 +37,8 @@ This repository contains Lebanon's first comprehensive AI governance guide speci
 
 ## 📚 **Documentation Structure**
 
+### **📖 [Guide v2.0](docs/guide/)**
+- [AI Governance Guide v2.0 (PDF)](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v2.0.pdf)
 ### **📖 [Main Guide](docs/guide/)**
 - [AI Governance Guide v1.0 (PDF)](https://github.com/ElNaboulsi/AI-Governance-Guide-for-Lebanese-Financial-Institutions/blob/main/docs/AI_Governance_Guide_for_Lebanese_Financial_Institutions_v1.pdf)
 - Executive Summary
@@ -207,11 +209,7 @@ Capital Outsourcing SAL. https://github.com/ElNaboulsi/AI-Governance-Guide-for-L
 - [ ] Additional implementation examples
 - [ ] Mobile-responsive design
 
-### **Version 2.0 (Q3 2025)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-- [ ] AI-powered compliance assistant
-- [ ] Automated risk assessment tools
-- [ ] Integration with banking systems
-- [ ] Advanced analytics capabilities
+### **Version 2.0 (Q4 2025)**                                                                                                                                                                  
 
 ---
 
