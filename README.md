@@ -227,4 +227,4 @@ Capital Outsourcing SAL. https://github.com/ElNaboulsi/AI-Governance-Guide-for-L
 
 ---
 
-*Last updated: October 2025 | Version 1.2*
+*Last updated: November 2025 | Version 2.0*
